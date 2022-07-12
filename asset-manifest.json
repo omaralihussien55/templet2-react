@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/templet2-react/static/css/main.151523a0.css",
+    "main.js": "/templet2-react/static/js/main.2f530fc9.js",
+    "static/js/787.e60b5279.chunk.js": "/templet2-react/static/js/787.e60b5279.chunk.js",
+    "static/media/img4.jpg": "/templet2-react/static/media/img4.bbd2d2970c9d848bc24f.jpg",
+    "static/media/phone4.jpg": "/templet2-react/static/media/phone4.2d10cc02f6d3e3f41fd3.jpg",
+    "static/media/phone5.jpg": "/templet2-react/static/media/phone5.bf0b4502d4a9bfdc0c60.jpg",
+    "static/media/phone2.jpg": "/templet2-react/static/media/phone2.b5df940274b2601371c8.jpg",
+    "static/media/phone3.jpg": "/templet2-react/static/media/phone3.6d947c6860cc70dc7d86.jpg",
+    "static/media/phone1.jpg": "/templet2-react/static/media/phone1.b6c416350abd0c54663d.jpg",
+    "static/media/phone7.jpg": "/templet2-react/static/media/phone7.54e1403e25a662c9f7e4.jpg",
+    "index.html": "/templet2-react/index.html",
+    "main.151523a0.css.map": "/templet2-react/static/css/main.151523a0.css.map",
+    "main.2f530fc9.js.map": "/templet2-react/static/js/main.2f530fc9.js.map",
+    "787.e60b5279.chunk.js.map": "/templet2-react/static/js/787.e60b5279.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.151523a0.css",
+    "static/js/main.2f530fc9.js"
+  ]
+}
